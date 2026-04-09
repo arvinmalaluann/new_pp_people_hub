@@ -1,11 +1,11 @@
-# 📱 Nurse App (PowerApps)
+# 📱 People Hub Reservation System (PowerApps)
 
 ![Project Thumbnail](./assets/thumbnail.png)
 
 ---
 
 ## 📌 Project Overview
-A PowerApps-based system designed for managing nurse profiles, earnings, and patient-related records. Built with a focus on performance, scalability, and clean UI/UX, while handling real-world limitations like delegation and large datasets.
+A PowerApps-based Reservation System for JG Summit Olefins Corporation’s recreational facilities. Employees can reserve time slots, submit transport declarations if needed, and receive notifications. Reservations require department head approval, and booked slots are automatically blocked to prevent conflicts, streamlining facility management and ensuring smooth scheduling.
 
 ---
 
