@@ -59,12 +59,13 @@ This project goes beyond basic PowerApps by applying structured logic and perfor
 
 ---
 
-## 🙌 Special Thanks
-- **[powericons.dev](https://www.powericons.dev)** — a great tool for enhancing UI with clean and consistent icons
-- **[quickchart.io](https://quickchart.io/)** — a great tool for enhancing UI with easy to use and integrate charts
-
----
-
 ## 📷 Additional Screens
 ![Project Thumbnail](./assets/desktop_3.png)
 ![Project Thumbnail](./assets/desktop_4.png)
+
+---
+
+## 🙌 Special Thanks
+- **[powericons.dev](https://www.powericons.dev)** — a great tool for enhancing UI with clean and consistent icons
+- **[quickchart.io](https://quickchart.io/)** — a great tool for enhancing UI with easy to use and integrate charts
+- **[Dribbble Shot Kit](https://dribbble.com)** — a must check mockup design template for freelancers.
